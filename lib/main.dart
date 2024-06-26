@@ -47,6 +47,8 @@ void main() {
 
   // feature 2 - commit 2
 
+  // merge
+
   // fixbug 1 - commit 1
 
   // fixbug 1 - cmmmit 2
