@@ -47,6 +47,10 @@ void main() {
 
   // feature 2 - commit 2
 
+  // fixbug 2 - commit 1
+
+  // fixbug 2 - commit 2
+
   runApp(const MyApp());
 }
 
