@@ -65,6 +65,14 @@ void main() {
 
   // fixbug 5 - commit 2
 
+  // fixbug 6 - commit 1
+
+  // fixbug 6 - commit 2
+
+  // fixbug 7 - commit 1
+
+  // fixbug 7 - commit 2
+
   // fixbug 8 - commit 1
 
   // fixbug 8 - commit 2
