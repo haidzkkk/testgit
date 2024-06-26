@@ -1,0 +1,26 @@
+[33mcommit 70e6dcdac6c91c4db4d4c038eb096f894d3c5393[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Kantun <bekoi10a6@gmail.com>
+Date:   Wed Jun 26 11:07:24 2024 +0700
+
+    xin chao
+
+[33mcommit 0f816d3534f19d9b50b2530ef047a34d57e157a2[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: 680058c 4032d2e
+Author: haidzkkk <117186588+haidzkkk@users.noreply.github.com>
+Date:   Tue Jun 25 22:23:37 2024 +0700
+
+    Merge pull request #2 from haidzkkk/dev
+    
+    first dev
+
+[33mcommit 4032d2e49d4c8558ea05924e2d9c5f8fdbd7dd7f[m[33m ([m[1;31morigin/dev[m[33m, [m[1;32mdev[m[33m)[m
+Author: Kantun <bekoi10a6@gmail.com>
+Date:   Tue Jun 25 22:22:57 2024 +0700
+
+    first dev
+
+[33mcommit 680058c97253efb8acfdb3870073bed5a7d9a58b[m
+Author: Kantun <bekoi10a6@gmail.com>
+Date:   Tue Jun 25 22:17:49 2024 +0700
+
+    first commit
