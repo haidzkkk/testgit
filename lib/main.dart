@@ -37,6 +37,8 @@ void main() {
 
   // day la dev2
 
+  // day la dev2 lan 2
+
   runApp(const MyApp());
 }
 
