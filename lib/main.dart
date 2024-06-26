@@ -20,6 +20,18 @@ void main() {
 
   // this is dev
 
+  // alo
+
+  // đưa thẳng code vào commit trước - đúng rồi đó đây là lần 2
+
+  // alo rebase commit về
+
+  // commit remote 1 1111
+
+  // commit remote 2
+
+  // commit nhánh b1
+
   runApp(const MyApp());
 }
 
@@ -29,6 +41,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+
       title: 'Flutter Demo',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
