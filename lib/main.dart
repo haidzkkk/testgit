@@ -20,6 +20,7 @@ void main() {
 
   // this is dev
 
+
   // alo
 
   // đưa thẳng code vào commit trước - đúng rồi đó đây là lần 2
@@ -31,6 +32,8 @@ void main() {
   // commit remote 2
 
   // commit nhánh b1
+
+  // day la dev
 
   runApp(const MyApp());
 }
