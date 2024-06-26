@@ -41,6 +41,8 @@ void main() {
 
   // feature 2 - commit 1
 
+  // feature 2 - commit 2
+
   runApp(const MyApp());
 }
 
