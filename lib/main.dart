@@ -69,6 +69,10 @@ void main() {
 
   // fixbug 6 - commit 2
 
+  // fixbug 7 - commit 1
+
+  // fixbug 7 - commit 2
+
   // rebase conflict
 
   // rebase 1 - commit 1
