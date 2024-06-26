@@ -26,6 +26,10 @@ void main() {
 
   // alo rebase commit về
 
+  // commit remote 1
+
+  // commit remote 2
+
   runApp(const MyApp());
 }
 
