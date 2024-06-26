@@ -68,7 +68,9 @@ void main() {
   // rebase 3 - commit 1
 
   // rebase 3 - commit 2
-  
+
+  // rebase 4 - commit 1
+
   runApp(const MyApp());
 }
 
