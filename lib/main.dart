@@ -49,7 +49,11 @@ void main() {
 
   // fixbug 1 - commit 1
 
-  // fixbug 1 - cmmit 2
+  // fixbug 1 - cmmmit 2
+
+  // fixbug 2 - commit 1
+
+  // fixbug 2 - commit 2
 
   runApp(const MyApp());
 }
